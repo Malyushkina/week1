@@ -1,7 +1,8 @@
 {
  "headers":{
    "/*":{
-     "X-Author":"pchelka75"
+     "X-Author":"pchelka75",
+    "Access-Control-Allow-Origin": "*"
    }
  }
 }
